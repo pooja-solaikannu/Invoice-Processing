@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/598500546395051383/5d264bcccfa64bb3a7733a6a058a335f/artifacts
+end_time: 1750592244442
+entry_point_name: ''
+experiment_id: '598500546395051383'
+lifecycle_stage: active
+run_id: 5d264bcccfa64bb3a7733a6a058a335f
+run_name: invoice_processing_test
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750592244057
+status: 3
+tags: []
+user_id: pooja
